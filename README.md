@@ -9,7 +9,7 @@ Explanation and code:
     
 Execution log for the computation of PL(2, 27):
 
-    PL_2_27_computation.log
+    PL_2_27_computation_on_22_core_xeon_E5-2699v4.log
     
 CPU info for the 22-core Xeon E5-2699v4 (14nm, early 2016) on which the
 PL(2, 27) computation took place:
