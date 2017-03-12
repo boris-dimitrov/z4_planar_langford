@@ -15,5 +15,9 @@ CPU info for the 22-core Xeon E5-2699v4 (14nm, early 2016) on which the
 PL(2, 27) computation took place:
 
     cpu_info.txt
+    
+See also the GPU version of this code:
+
+    https://github.com/boris-dimitrov/z4_planar_langford_multigpu
 
 Questions? Contact http://www.facebook.com/boris
