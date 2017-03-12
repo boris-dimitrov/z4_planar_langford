@@ -14,7 +14,7 @@ Execution log for the computation of PL(2, 27):
 CPU info for the 22-core Xeon E5-2699v4 (14nm, early 2016) on which the
 PL(2, 27) computation took place:
 
-    cpu_info.txt
+    cpu_info_22_core_xeon_E5-2699v4.txt
     
 See also the GPU version of this code:
 
