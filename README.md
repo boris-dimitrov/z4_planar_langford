@@ -19,5 +19,12 @@ PL(2, 27) computation took place:
 See also the GPU version of this code:
 
     https://github.com/boris-dimitrov/z4_planar_langford_multigpu
+    
+As of 2017-03-19 this algorithm is outperformed by the technique in
+
+    https://github.com/boris-dimitrov/z5_langford/blob/master/langford.cpp
+    
+which appears to produce results in 30% less time.  Both algorithms have
+exponential complexity O(3.38^n).
 
 Questions? Contact http://www.facebook.com/boris
