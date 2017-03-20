@@ -98,6 +98,13 @@
 //     1488195648532 Solving Planar Langford for n = 27
 //     1488525305820 Result 426502 for n = 27 MATCHES previously published result and took 329657288 milliseconds.
 //
+// As of 2017-03-19 this algorithm is outperformed by the technique in
+//
+//     https://github.com/boris-dimitrov/z5_langford/blob/master/langford.cpp
+// 
+// which appears to produce results in 30% less time.  Both algorithms have
+// exponential complexity O(3.38^n).
+//
 // SEE ALSO
 //
 // There is a variant of this program that runs on GPUs.  Performance is comparable between a single
